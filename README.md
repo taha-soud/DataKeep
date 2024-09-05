@@ -51,10 +51,10 @@ Go to the "Data Management" section.
 Select either soft or hard deletion based on your needs.
 
 
-## Contributers:
- **Taha Abualsoud**
- **Ahmad Thaher**
- **Abdullah Talahmeh**
+## Contributers
+### **Taha Abualsoud**
+### **Ahmad Thaher**
+### **Abdullah Talahmeh**
 
 
 
